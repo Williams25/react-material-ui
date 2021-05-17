@@ -1,0 +1,46 @@
+{
+  "technologies": [
+    {
+      "name": "Git",
+      "logo": "./images/git.png",
+      "description": "Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.",
+      "link": "https://git-scm.com/"
+    },
+    {
+      "name": "HTML",
+      "logo": "./images/html.png",
+      "description": "HTML é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores. A tecnologia é fruto da junção entre os padrões HyTime e SGML.",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Web/HTML"
+    },
+    {
+      "name": "CSS",
+      "logo": "./images/css.png",
+      "description": "O CSS pode ser aplicado diretamente nas tags ou ficar contido dentro das tags <style>. Também é possível, em vez de colocar a formatação dentro do documento, criar um link para um arquivo CSS que contém os estilos.",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Web/CSS"
+    },
+    {
+      "name": "JavaScript",
+      "logo": "./images/javascript.png",
+      "description": "JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+    },
+    {
+      "name": "TypeScript",
+      "logo": "./images/typescript.png",
+      "description": "TypeScript é um superconjunto de JavaScript desenvolvido pela Microsoft que adiciona tipagem e alguns outros recursos a linguagem. Anders Hejlsberg, arquiteto da linguagem C# e criador das linguagens Delphi e Turbo Pascal, trabalhou no desenvolvimento do TypeScript.",
+      "link": "https://www.typescriptlang.org/"
+    },
+    {
+      "name": "React",
+      "logo": "./images/react.png",
+      "description": "O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo Facebook, Instagram, outras empresas e uma comunidade de desenvolvedores individuais. É utilizado nos sites da Netflix, Imgur, Feedly, Airbnb, SeatGeek, HelloSign, Walmart e outros",
+      "link": "https://pt-br.reactjs.org/"
+    },
+    {
+      "name": "Node.js",
+      "logo": "./images/node.png",
+      "description": "Node.js é um software de código aberto, multiplataforma, que executa códigos JavaScript no backend/servidor e frontend/interface, baseado no V8 interpretador de JavaScript em C++ do Google, mantido pela fundação Node.js em parceria com a Linux Foundation.",
+      "link": "https://nodejs.org/en/"
+    }
+  ]
+}
