@@ -109,9 +109,9 @@ export const Form = ({ closeModal }: FormProps) => {
       sx={{
         p: 2,
         margin: "auto",
-        maxWidth: 500,
-        minWidth: 400,
-        width: "100%",
+        // maxWidth: 400,
+        // minWidth: 500,
+        width: "80%",
         height: "20rem",
         flexGrow: 1,
       }}

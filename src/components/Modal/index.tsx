@@ -20,7 +20,7 @@ const style = {
 const ContainerCloseButton = styled("div")({
   position: "absolute" as "absolute",
   top: "0",
-  right: "0",
+  right: "3rem",
   zIndex: 10,
   margin: "0.5rem",
 });
@@ -34,6 +34,7 @@ export const KeepMountedModal = () => {
     <div>
       <Button onClick={handleOpen}>Login / Cadatrar-se</Button>
       <Modal
+        sx={{ margin: "1rem" }}
         keepMounted
         open={open}
         aria-labelledby="keep-mounted-modal-title"
