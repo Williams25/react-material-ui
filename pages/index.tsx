@@ -29,7 +29,7 @@ export default function Home() {
           <KeepMountedModal />
           <Typography variant="h6" component="span">
             {
-              userNameContext && Bem vindo {userNameContext}!
+              userNameContext && "Bem vindo {userNameContext}!"
             }
           </Typography>
         </Grid>
