@@ -28,7 +28,9 @@ export default function Home() {
         >
           <KeepMountedModal />
           <Typography variant="h6" component="span">
-            Bem vindo {userNameContext}!
+            {
+              userNameContext && Bem vindo {userNameContext}!
+            }
           </Typography>
         </Grid>
         <ListCard data={data.technologies} />
