@@ -111,7 +111,7 @@ export const Form = ({ closeModal }: FormProps) => {
         margin: "auto",
         maxWidth: 500,
         minWidth: 400,
-        width: "48rem",
+        width: "100%",
         height: "20rem",
         flexGrow: 1,
       }}
